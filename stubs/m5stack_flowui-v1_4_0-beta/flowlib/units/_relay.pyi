@@ -1,9 +1,0 @@
-from typing import Any
-
-class Relay:
-    def deinit(self, *argv) -> Any: ...
-    def off(self, *argv) -> Any: ...
-    def on(self, *argv) -> Any: ...
-
-machine: Any
-unit: Any

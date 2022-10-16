@@ -1,6 +1,0 @@
-from typing import Any
-
-DEBUG: int
-
-def server_handshake(*args, **kwargs) -> Any: ...
-def client_handshake(*args, **kwargs) -> Any: ...
